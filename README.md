@@ -40,6 +40,10 @@
 
 ## 🛠️ Technical Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,tensorflow,opencv,mysql,git,vscode" alt="Skill Icons" />
+</p>
+
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -108,6 +112,57 @@ A web-based platform connecting blood donors with recipients — featuring user 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sree7961&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sree7961&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sree7961&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sree7961/sree7961/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!--
+  To enable the snake animation above, add this GitHub Actions workflow
+  at .github/workflows/snake.yml in your sree7961/sree7961 repo:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: sree7961
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 ---
 

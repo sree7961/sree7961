@@ -88,11 +88,12 @@ A web-based platform connecting blood donors with recipients, featuring donor se
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sree7961&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=sree7961&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sree7961&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sree7961&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=sree7961&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

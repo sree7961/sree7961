@@ -88,16 +88,15 @@ A web-based platform connecting blood donors with recipients, featuring donor se
 
 ---
 
-## 🏅 GitHub Trophies
+
+## 🏆 GitHub Trophies
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sree7961&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=sree7961&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-
----
 
 ## 🐍 Contribution Snake
 
